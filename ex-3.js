@@ -4,6 +4,6 @@
 const numberA = 100;
 const numberB = "20";
 
-numberA = 10;
+numberA = 20;
 
 console.log(`Sum: ${numberA + numberB}`);
